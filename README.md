@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gastón Marino (@gmarino86)
-- 👀 I’m interested in ...
+- 👀 I’m interested in Sports (Futbol, Paddle, Tennis), Technology, Music, Travels.  
 - 🌱 I’m currently learning HTML, CSS, JS, PHP, React, Laravel, mysql, MongoDB, MSSQL and a little of Oracle.
 - Lengaje: Spanish, English Intermediate and Italian Intermediate.
 - 📫 I'm living in Buenos Aires, Argentina. 
